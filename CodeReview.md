@@ -25,16 +25,8 @@ In my ePortfolio I must make sure my codes are clean and easy to understand. As 
 
 
 **Code Review**
-<div align="center">
-  <iframe 
-        width="560" 
-        height="315" 
-        src="https://youtu.be/ilpqR26xhUM" 
-        frameborder="0" 
-        allow="autoplay; encrypted-media" 
-        allowfullscreen="">
-  </iframe>
-</div>
+
+https://youtu.be/ilpqR26xhUM
 
 **Project Enhancement**<br>
 * [Enhancement One](https://jimenez2241.github.io/Software Design and Engineering.html)<br>
