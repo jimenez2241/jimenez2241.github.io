@@ -29,6 +29,6 @@ In my ePortfolio I must make sure my codes are clean and easy to understand. As 
 https://youtu.be/ilpqR26xhUM
 
 **Project Enhancement**<br>
-* [Enhancement One](https://jimenez2241.github.io/Software Design and Engineering.html)<br>
-* [Enhancement Two](https://jimenez2241.github.io/Algorithms and Data Structures.html)<br>
+* [Enhancement One](https://jimenez2241.github.io/SoftwareDesignEngineering.html)<br>
+* [Enhancement Two](https://jimenez2241.github.io/AlgorithmsDataStructures.html)<br>
 * [Enhancement Three](https://jimenez2241.github.io/Databases.html)
