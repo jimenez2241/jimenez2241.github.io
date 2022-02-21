@@ -1,0 +1,2 @@
+﻿  Pyramid.cpp
+C:\Users\jimen\source\repos\Pyramid\includes\glad\glad.h(26,1): fatal error C1189: #error:  OpenGL header already included, remove this include, glad already provides it
