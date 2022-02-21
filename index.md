@@ -12,7 +12,7 @@ I have been enrolled in a software engineer program for just about 3 years now. 
 In my ePortfolio I must make sure my codes are clean and easy to understand. As going through my project, I will keep a checklist of what my code needs to be complete. I will make sure I go through every line of code to make sure it completed. For example, if I had an if else statement, I would make sure I have all aspects to be a if else statement. I also want to make sure my code is coded correctly. For example, I want to make sure the narrative of my code is correct. I want to have my code in order of the process. If I have my code that should be in the end at the beginning, then my code could suffer and fail. So, I want to go through each project and make sure my code has a good flow. As far as professional self-assessment I will make sure all the knowledge I gained thought my time is fresh. I will go over some materials like crucial information that would make me a great coder. 
 
 
-**Code Review
+## Code Review
 <div align="center">
   <iframe 
         width="560" 
