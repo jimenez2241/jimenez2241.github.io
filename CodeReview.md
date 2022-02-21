@@ -25,20 +25,29 @@ In my ePortfolio I must make sure my codes are clean and easy to understand. As 
 
 
 **Code Review**
+<div align="center">
+  <iframe 
+        width="560" 
+        height="315" 
+        src="https://youtu.be/ilpqR26xhUM" 
+        frameborder="0" 
+        allow="autoplay; encrypted-media" 
+        allowfullscreen="">
+  </iframe>
+</div>
 
-https://youtu.be/ilpqR26xhUM
 
-**Project Enhancement**<br>
-* [Enhancement One](https://jimenez2241.github.io/SoftwareDesignEngineering.html)<br>
-* [Enhancement Two](https://jimenez2241.github.io/AlgorithmsDataStructures.html)<br>
-* [Enhancement Three](https://jimenez2241.github.io/Databases.html)
 
 
 ## Enhancement One: Software Engineering & Design
 
 The artifact that I choose to enhance is called pyramid. This project is a 3d visual scene of a few shapes I created. I created this about 1 year ago. This project is a great example of software design and engineering. This was one of the most difficult courses I took in my journey. I wanted to show that even when I struggled, I still made it through the other side. This artifact show I can adapt my coding knowledge to the task at hand. I improved this project by added a few more shapes and deleted what was not need in the project. I met most of the planned enhancements I set for myself in Module One. I feel like I have a few more things I would like to touch up. For example, I would like to add a background to my scene. This would go great with the shapes I created for it. My process of enhancing my artifact was to make everything as clean and easy to follow as possible. When going through my process, I learned that sometimes its not as easy as it looks. For example, I haven’t touched this project for a long time. So, coming back to it was a little difficult to remember all the libraries I need to enhance it. My biggest issue is debugging my project. I need to get better with doing that so I can ensure my code is the best it can possibly be.
 
-**Link to Repository**
+**Enhancement Two: Algorithms and Data Structure**
 
-[Enhancement One Repository](https://github.com/jimenez2241/3D Project)
+The artifact that I have selected is a file I created to promote five destinations to travel. I created this project 3 years ago. I felt this project was a great addition to add to my ePortfolio. This project was a great example of Algorithms and Data Structure. This project demonstrates areas to travel to while promoting. This project has great data structure on places to travel. I improved this project by added more detail to each destination. I also added a title and upgraded some page features to make it pop more. I felt that I met the course objectives I planned to meet with this enhancement in Module One. I feel this project is complete. My process on enhancing this project was to make the page stand out more. So, I updated what I felt would get more people to engage on this project and get them to take my advice on where to travel. While enhancing this project, I learn how to alter my project to a fit a certain criterion. This is great practice on taking what a customer needs and implementing it. While working on this project I didn’t have any challenges. 
+
+**Enhancement Three: Databases**
+
+The artifact I have chosen is a great example of a project that demonstrate some type of database. I create an animal shelter database to keep track of all animals that goes in and out of the shelter.  I created this project early 2021. This project is a great addition to my ePortfolio because it demonstrates a database. I created a database for an animal shelter to keep track of everything that happens in the shelter. I created a create, read, update, and delete function to be able to maintain the shelter. Then I linked it to my database to be able to use these functions. I then enhanced my project by using the CRUD function to add animals, read their profiles, update their profile, and delete any animals that is no longer in the shelter. I have met the course objectives I planned to meet with this enhancement. This was a great addition to my ePortfolio. This enhancement was a great lesion for me. I took a project that I created and used it to manage another project. Sometimes one project could help another. 
 
