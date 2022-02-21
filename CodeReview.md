@@ -26,7 +26,6 @@ In my ePortfolio I must make sure my codes are clean and easy to understand. As 
 
 
 
-
 ## Enhancement One: Software Engineering & Design
 
 For this portion of the project, I would like to use my project I created in CS 360 Architect and Programming. This is course I created an inventory app. This a great example to show how I created a mobile app that keep track of inventory. I decided to use this project for this section because it shows great software design. As you navigate throw the app you will see the design goes in line with the coding potion. The main objective of this project was to collect data to accurately display what is in stock. This app can also add or subtract the quantity amount per product. I plan to improve my code but poshing some of my code. When developing my project, I struggled with adding all the function my app needs to be able to run itself. The skills I gained in this project will help me improve my code to successfully have a complete inventory app. I want to enhance my code by added a better system to collect the data. For example, I have only had an add and delete button. To have an inventory app I also need a read only and update button as well. That will be a great start to making my inventory app enhanced.
