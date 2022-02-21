@@ -32,3 +32,12 @@ https://youtu.be/ilpqR26xhUM
 * [Enhancement One](https://jimenez2241.github.io/SoftwareDesignEngineering.html)<br>
 * [Enhancement Two](https://jimenez2241.github.io/AlgorithmsDataStructures.html)<br>
 * [Enhancement Three](https://jimenez2241.github.io/Databases.html)
+
+## Enhancement One: Software Engineering & Design
+
+The artifact that I choose to enhance is called pyramid. This project is a 3d visual scene of a few shapes I created. I created this about 1 year ago. This project is a great example of software design and engineering. This was one of the most difficult courses I took in my journey. I wanted to show that even when I struggled, I still made it through the other side. This artifact show I can adapt my coding knowledge to the task at hand. I improved this project by added a few more shapes and deleted what was not need in the project. I met most of the planned enhancements I set for myself in Module One. I feel like I have a few more things I would like to touch up. For example, I would like to add a background to my scene. This would go great with the shapes I created for it. My process of enhancing my artifact was to make everything as clean and easy to follow as possible. When going through my process, I learned that sometimes its not as easy as it looks. For example, I haven’t touched this project for a long time. So, coming back to it was a little difficult to remember all the libraries I need to enhance it. My biggest issue is debugging my project. I need to get better with doing that so I can ensure my code is the best it can possibly be.
+
+**Link to Repository**
+
+[Enhancement One Repository](https://github.com/jimenez2241/3D Project)
+
